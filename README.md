@@ -20,7 +20,7 @@ Small tools I've been carrying from project to project, now as packages:
 ### Projects
 
 - [recipe-book-demo](https://github.com/axtew/recipe-book-demo): a mobile-first PWA for recipes with nutrition calculation. React 19, TanStack Query and Router, Supabase with RLS. [Live demo](https://recipe-book-demo.stevvy1122.workers.dev)
-- [objects-tasks-crm](https://github.com/axtew/objects-tasks-crm): a mini CRM with roles, task workflow and status history. All access rules live in Postgres (RLS), with tests that bypass the UI. [Live demo](https://objects-tasks-crm.stevvy1122.workers.dev)
+- [objects-tasks-crm](https://github.com/axtew/objects-tasks-crm): a mini CRM with roles, task workflow and status history. All access rules live in Postgres (RLS), with tests that bypass the UI. [Live demo](https://objects-tasks-crm.stevvy1122.workers.dev): manager `manager@example.com`, executor `executor1@example.com`, password `Demo-hbvcOLEw`. Demo data resets every night.
 
 ### Contact
 
